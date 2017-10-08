@@ -1,2 +1,2 @@
 # Neural-Networks
-Learning and development of neural networks
+Learning and developing Neural networks
